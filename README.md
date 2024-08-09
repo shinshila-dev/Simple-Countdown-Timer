@@ -1,6 +1,6 @@
 ## Simple Countdown Timer
 
-**Simple Countdown Timer** is a sleek WPF app for managing countdown timers. It stays on top of other windows and plays a sound when the timer ends. With its intuitive interface, you can effortlessly add, edit, and remove timers.
+**Simple Countdown Timer** is a WPF app for managing countdown timers. It stays on top of other windows and plays a sound when the timer ends. With its intuitive interface, you can effortlessly add, edit, and remove timers.
 
 ### Features
 - **Manage Timers**: Add, edit, and delete timers with ease.
@@ -17,7 +17,7 @@
 
 ## Simple Countdown Timer
 
-**Simple Countdown Timer** — элегантное WPF-приложение для управления таймерами обратного отсчета. Оно остаётся поверх других окон и проигрывает звук по окончании таймера. Интуитивный интерфейс позволяет легко добавлять, редактировать и удалять таймеры.
+**Simple Countdown Timer** — WPF-приложение для управления таймерами обратного отсчета. Оно остаётся поверх других окон и проигрывает звук по окончании таймера. Интуитивный интерфейс позволяет легко добавлять, редактировать и удалять таймеры.
 
 ### Особенности
 - **Управление таймерами**: Легко добавляйте, редактируйте и удаляйте таймеры.
