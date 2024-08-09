@@ -33,4 +33,4 @@
 3. Настройте таймеры под ваши нужды.
 
 
-![изображение](https://i.imgur.com/6ndrtV7.mp4)
+![GIF](https://i.imgur.com/6ndrtV7.gif)
